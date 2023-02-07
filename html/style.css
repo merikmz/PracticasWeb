@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    padding: 10px;
+}
+body{
+    background-color: #fed9b7;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.titulo{
+    background-color: #fdfcdc;
+    color: #f07167;
+    text-align: center;
+}
+.objetivos{
+    margin-top: 30px;
+    text-align: center;
+    color: #0081a7;
+    background-color: #bbd0ff;
+    border-radius: 20px;
+}
+.objetivos p{
+    color: #0081a7;
+    text-align: center;
+   
+}
+.contenido p:nth-child(1){
+    color: #f07167;    
+}
+.contenido p:last-child{
+    text-align: right;
+    color: #00afb9;
+    font-style: italic;
+}
+/*h1{
+    color:rgb(2, 34, 94);
+    text-align: center;
+    background-color: rgba(142, 216, 240, 0.868);
+    font-weight: 500;
+}
+h2{
+    color:rgb(2, 34, 94);
+    font-weight: 300;
+}
+p{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.objetivo{
+    background-color: rgb(227, 150, 188);
+}
+.contenido{
+    background-color: rgb(120, 142, 183);
+}*/
